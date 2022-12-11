@@ -1,0 +1,10 @@
+#premium-button {
+  position: absolute;
+  display:inline-block;
+  top: 2px;
+  left: 100px;
+  font-weight: 500;
+  color: #ff3f6c;
+  font-size: 13px;
+  cursor: pointer;
+}
